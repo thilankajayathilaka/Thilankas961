@@ -15,10 +15,10 @@
     <p><a href="https://www.facebook.com/thilanka.jayathilaka.12/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a><p>
   <div style="display:flex"><h2>GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilankajayathilaka&theme=dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilankajayathilaka&theme=github_dark">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilankajayathilaka&theme=github_dark">
     <img src="https://github-readme-stats.vercel.app/api?username=thilankajayathilaka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<h3 align="left">🏆Trophies</h3>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilankajayathilaka" alt="thilankajayathilaka" /></a></p>
+<h3 align="center">🏆Trophies</h3>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilankajayathilaka" alt="thilankajayathilaka" /></a></p>
     </div>
 <br>
 <br>
