@@ -16,7 +16,7 @@
   <div style="display:flex"><h2 align="center">GitHub Stats</h2>
     <img style="height:400px" src="https://github-readme-stats.vercel.app/api?username=thilankajayathilaka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img style="height:200px;margin:0,100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilankajayathilaka&theme=dark">
-<img style="height:200px; margin:0,100px;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilankajayathilaka&theme=github_dark">
+<img style="height:200px; margin-ledft:100px;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilankajayathilaka&theme=github_dark">
 <h3 align="center">🏆Trophies</h3>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilankajayathilaka" alt="thilankajayathilaka" /></a></p>
     </div>
