@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/followers/Thilanka961?style=social flat-square"> 
+<img src="https://img.shields.io/github/followers/thilankajayathilaka?style=social flat-square"> 
 <h1>👋 Hi, Thilanka Jayathilaka</h1>
 <h2>🧑‍🎓I’m an undergraduate at University of Colombo School of Computing (BSc in Information Systems)</h2>
 <h2> I’m interested in</h2>
