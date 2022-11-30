@@ -13,7 +13,7 @@
 <h2> Connect With me</h2>
 <p><a href="https://www.linkedin.com/in/thilanka-jayathilaka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
     <p><a href="https://www.facebook.com/thilanka.jayathilaka.12/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a><p>
-  <div style="display:flex; margin:40px;"><h2 align="center">GitHub Stats</h2>
+  <div style="display:flex; margin:40px;" align="center"><h2 align="center">GitHub Stats</h2>
     <img style="height:330px" src="https://github-readme-stats.vercel.app/api?username=thilankajayathilaka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img style="height:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilankajayathilaka&theme=dark">
 <img style="height:300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilankajayathilaka&theme=github_dark">
