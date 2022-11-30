@@ -14,11 +14,11 @@
 <p><a href="https://www.linkedin.com/in/thilanka-jayathilaka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
     <p><a href="https://www.facebook.com/thilanka.jayathilaka.12/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a><p>
   <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilanka961&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api?username=Thilanka961&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thilanka961&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilankajayathilaka&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=thilankajayathilaka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilankajayathilaka&theme=github_dark">
 <h3 align="left">🏆Trophies</h3>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thilanka961" alt="Thilanka961" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilankajayathilaka" alt="thilankajayathilaka" /></a></p>
 <br>
 <br>
 <br>
