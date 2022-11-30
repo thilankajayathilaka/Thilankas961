@@ -9,7 +9,6 @@
   </ul>
  - 📫 How toReach me : thilankas961@gmail.com
 <br>
- - ⚡ Some fun facts about me : <b>Cinephile</b>, a <b>DC geek</b>, <b>Anime Lover</b>
 <h2> Connect With me</h2>
 <p><a href="https://www.linkedin.com/in/thilanka-jayathilaka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
     <p><a href="https://www.facebook.com/thilanka.jayathilaka.12/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a><p>
